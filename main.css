@@ -41,3 +41,11 @@ ul li {
     justify-content: center;
     display: flex;
 }
+
+li {
+    cursor: pointer;
+}
+
+.checked {
+    text-decoration: line-through;
+}
